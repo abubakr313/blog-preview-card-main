@@ -29,8 +29,8 @@ main {
 }
 
 #container {
-    width: 350px;
-    height: 450px;
+    width: 400px;
+    height: 500px;
     display: flex;
     flex-direction: column;
     background: white;
